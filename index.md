@@ -13,7 +13,7 @@ This is the index page, describe yourself in few sentences here. Perhaps talk ab
 
 ![image](https://user-images.githubusercontent.com/126732334/228942203-3935d674-4980-4e86-a0dd-98664c175c01.png)
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+Pudhina Fresh is free and open-source. Checkout [UBICACION](https://www.google.com.mx/maps/place/AUTOANGAR+TEPEPAN/@19.2817821,-99.2028503,13z/data=!4m9!1m2!2m1!1sventa+de+automoviles+cdmx!3m5!1s0x85ce010519d28bc9:0x455e0c3dcfc01f88!8m2!3d19.2817821!4d-99.1369323!16s%2Fg%2F11fmsg8fcv).
 
 <br>
 <br>
