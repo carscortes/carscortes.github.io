@@ -9,7 +9,7 @@ sitemap:
 ---
 <p class="describe-text">Transformamos la compra y venta de autos seminuevos.</p>
 <br>
-Encuentra la ruta mas faci de tu casa al trabajo con uno de nuestros autos 
+Encuentra la ruta mas facil de tu casa al trabajo con uno de nuestros autos 
 
 ![image](https://user-images.githubusercontent.com/126732334/228942203-3935d674-4980-4e86-a0dd-98664c175c01.png)
 
