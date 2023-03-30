@@ -11,6 +11,8 @@ sitemap:
 <br>
 This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
 
+![image](https://user-images.githubusercontent.com/126732334/228942203-3935d674-4980-4e86-a0dd-98664c175c01.png)
+
 Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
 
 <br>
