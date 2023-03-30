@@ -9,7 +9,7 @@ sitemap:
 ---
 <p class="describe-text">Transformamos la compra y venta de autos seminuevos.</p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+Encuentra la ruta mas faci de tu casa al trabajo con uno de nuestros autos 
 
 ![image](https://user-images.githubusercontent.com/126732334/228942203-3935d674-4980-4e86-a0dd-98664c175c01.png)
 
