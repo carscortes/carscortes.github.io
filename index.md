@@ -7,9 +7,10 @@ description: Transformamos la compra y venta de autos seminuevos
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">Transformamos la compra y venta de autos seminuevos.</p>
+<p class="describe-text">    TRANSFORMAMOS LA COMPRA DE TU AUTO AQUI.</p>
 <br>
 Encuentra la ruta mas facil de tu casa al trabajo con uno de nuestros autos 
+
 
 ![image](https://user-images.githubusercontent.com/126732334/228948443-ef2fd094-1237-4c49-872f-5624e646ea5c.png)
 
