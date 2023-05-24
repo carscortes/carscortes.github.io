@@ -19,6 +19,11 @@ Encuentra la ruta mas facil de tu casa al trabajo con uno de nuestros autos
 Chevrolet Cavalier Turbo
 Descubre su atractiva versión RS y el nuevo motor Turbo Eficiente que te brinda una experiencia de manejo única.
 
+![image](https://github.com/carscortes/carscortes.github.io/assets/126732334/035247fc-3f65-4f46-9c9d-a18cba068570)
+Supera todas tus expectativas
+El primer Chevrolet Corvette con motor central es potente y dominante. Ahora, este súper deportivo viene directo de las pistas a tu garaje con nuevos colores y una edición coleccionable.
+
+
 
 
 Encuentranos en esta [UBICACION](https://www.google.com.mx/maps/place/AUTOANGAR+TEPEPAN/@19.2817821,-99.2028503,13z/data=!4m9!1m2!2m1!1sventa+de+automoviles+cdmx!3m5!1s0x85ce010519d28bc9:0x455e0c3dcfc01f88!8m2!3d19.2817821!4d-99.1369323!16s%2Fg%2F11fmsg8fcv).
