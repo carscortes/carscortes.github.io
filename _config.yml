@@ -3,7 +3,7 @@ short_logo: PF. # Shown in header on all pages by default unless full_logo: true
 description: > # The description for your site
   A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 # url: "https://ritijjain.github.io/pudhina-fresh" # Site base URL
-url: "https://carscortes.github.io/" # Site base URL
+url: "" # Site base URL
 
 
 author:
